@@ -172,7 +172,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  aws-sdk (~> 2.2.5)
+  aws-sdk (~> 2.0)
   bootstrap-sass (~> 3.3.6)
   coffee-rails (~> 4.1.0)
   devise (~> 3.5.2)
